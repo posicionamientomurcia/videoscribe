@@ -22,7 +22,7 @@ export const siteConfig: SiteConfig = {
     },
   ],
   links: {
-    twitter: "https://twitter.com/sullyo",
+    twitter: "https://twitter.com/Tafkik_Shubuhat",
     github: "https://github.com/sullyo/videoscribe",
     video: "/video",
     youtube: "/youtube",
